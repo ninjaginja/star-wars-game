@@ -1,0 +1,20 @@
+Errors corrected in BooTheDog.html file:
+
+Missing 'Fan Page' in title text
+Missing <h1> tag around 'Boo The Dog Fan Page!'
+Removed wide <div class="col-sm-12"> containing the on-page instructions for the exercise, starting with the <div class=row> tag above
+Missing <p> tags in description text beneath 'About Boo' section, leading to a single, long paragraph.
+Missing hyperlink inside quotation marks to link to the Wikipedia article.
+Missing opening < and closing > around image tag for the focal image in the top right of the page.
+Swapped lower 2 rows of content on the page to remain consistent with the Grumpy Cat page example. (Moved the Grow/Shrink and Color functions above the Facts section)
+Swapped Grow/Shrink and Color functions within the row to remain consistent with the Grumpy Cat page example.
+Updated button ids to correspond to the correct colors
+Missing <li> tags around ordered list elements
+
+
+Errors corrected logic.js file:
+
+Missing comments to quickly identify each function
+Missing end quotes after each array listing in the booFacts array - should be placed before comma separating each phrase in the array
+Missing quotes around "pink" in css command of function
+Missing quotes around "click" triggers in both boxGrow and boxShrink functions

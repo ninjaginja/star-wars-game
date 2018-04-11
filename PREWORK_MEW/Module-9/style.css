@@ -1,0 +1,47 @@
+.center {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+	color: orange;
+}
+
+.big {
+	font-size: 40px;
+}
+
+.tiny {
+	font-size: 8px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.tahoma {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+.styledFont {
+	font-family: "Courier New", Courier, monospace;
+	color: #f442d1;
+	font-size: 18px;
+}
+
+#styledImage {
+	border-width: 8px;
+	border-style: double;
+	border-color: #41f2f2;
+}
